@@ -8,6 +8,7 @@
 * Raspberry Pi camera V2 (2)
 * Android phone (1)
 * PS4 Controller(Dualshock 4) (1)
+* Dualshock 4 wireless adaptor (1)
 * Tank kit (1)
 * pan-tilt kit (1)
 * L298N motor dirver (1)
